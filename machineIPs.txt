@@ -1,0 +1,8 @@
+The Public ip of 2nd public instance 3.238.64.131
+The Public ip of 1st public instance 54.198.67.20
+The Private ip of 2nd private instance 10.0.3.223
+The Private ip of 1st private instance 10.0.1.6
+The Private ip of 2nd private instance 10.0.3.183
+The Public ip of 1st public instance 50.16.161.77
+The Public ip of 2nd public instance 44.222.251.184
+The Private ip of 1st private instance 10.0.1.72
